@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-min-depozit-bez-verifikacii.github.io
+Sitemap: https://kazino-min-depozit-bez-verifikacii.github.io/sitemap.xml
